@@ -12,5 +12,6 @@ package pruebagit;
 public class ClaseA2 {
     public static void main(String[] args) {
         System.out.println("Esto es el fichero de a2");//Soy Ivan
+        System.out.println("Rama Ivan");
     }
 }
